@@ -1,0 +1,120 @@
+{C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/Data_Memory.v} {1 {vlog -work work -stats=none {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/Data_Memory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Data_Memory
+
+Top level modules:
+	Data_Memory
+
+} {} {}} {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/ALU.v} {1 {vlog -work work -stats=none {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/Adder_4.v} {1 {vlog -work work -stats=none {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/Adder_4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Adder_4
+
+Top level modules:
+	Adder_4
+
+} {} {}} {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/Controller.v} {1 {vlog -work work -stats=none {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/Controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/Register_File.v} {1 {vlog -work work -stats=none {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/Register_File.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Register_File
+
+Top level modules:
+	Register_File
+
+} {} {}} {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/RV32I_Processor.v} {1 {vlog -work work -stats=none {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/RV32I_Processor.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RV32I_Processor
+
+Top level modules:
+	RV32I_Processor
+
+} {} {}} {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/Data_path.v} {1 {vlog -work work -stats=none {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/Data_path.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Data_path
+
+Top level modules:
+	Data_path
+
+} {} {}} {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/Adder_Target.v} {1 {vlog -work work -stats=none {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/Adder_Target.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Adder_Target
+
+Top level modules:
+	Adder_Target
+
+} {} {}} {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/J_LMUX.v} {1 {vlog -work work -stats=none {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/J_LMUX.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module J_LMUX
+
+Top level modules:
+	J_LMUX
+
+} {} {}} {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/ALU_Decoder.v} {1 {vlog -work work -stats=none {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/ALU_Decoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_Decoder
+
+Top level modules:
+	ALU_Decoder
+
+} {} {}} {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/Instruction_memory.v} {1 {vlog -work work -stats=none {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/Instruction_memory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Instruction_memory
+
+Top level modules:
+	Instruction_memory
+
+} {} {}} {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/Main_Decoder.v} {1 {vlog -work work -stats=none {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/Main_Decoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Main_Decoder
+
+Top level modules:
+	Main_Decoder
+
+} {} {}} {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/ALUINPUTMUX.v} {1 {vlog -work work -stats=none {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/ALUINPUTMUX.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALUINPUTMUX
+
+Top level modules:
+	ALUINPUTMUX
+
+} {} {}} {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/PCMUX.v} {1 {vlog -work work -stats=none {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/PCMUX.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PCMUX
+
+Top level modules:
+	PCMUX
+
+} {} {}} {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/Program_Counter.v} {1 {vlog -work work -stats=none {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/Program_Counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Program_Counter
+
+Top level modules:
+	Program_Counter
+
+} {} {}} {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/SC_32_RISC_V.v} {1 {vlog -work work -stats=none {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/SC_32_RISC_V.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SC_32_RISC_V
+
+Top level modules:
+	SC_32_RISC_V
+
+} {} {}} {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/Extend_Unit.v} {1 {vlog -work work -stats=none {C:/Users/Al mahdy/Desktop/NTI_ic/Final Project/Extend_Unit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Extend_Unit
+
+Top level modules:
+	Extend_Unit
+
+} {} {}}
